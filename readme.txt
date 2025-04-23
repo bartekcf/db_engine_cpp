@@ -1,6 +1,6 @@
 BAZA DANYCH autor s27612
 
-Baza danych oparta jest na zapytan z języka MySQL
+Baza danych oparta jest na silniku zapytan z języka MySQL
 
 Informacje ogólne:
 Baza danych jest case sensitvie tzn. polecenia muszą być pisanę wielkimi literami np. create nie zadziała trzeba napisać CREATE
